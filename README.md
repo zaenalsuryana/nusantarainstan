@@ -62,4 +62,35 @@ Aplikasi berbasis web untuk mengelola produk, kategori, pengguna, dan pesanan. S
 
 ## Screenshot
 
-Screenshot aplikasi dapat dilihat pada folder `assets`.
+
+## Screenshot
+
+### Halaman Login
+![Halaman Login](assets/screenshots/login.png)
+
+### Dashboard
+![Dashboard](assets/screenshots/dasboard.png)
+
+### produk list
+![Produk](assets/screenshots/produk.png)
+
+### Kategories Lis
+![Kategories](assets/screenshots/categories.png)
+
+### Users
+![User List](assets/screenshots/users.png)
+
+### Order report
+![Order report](assets/screenshots/report.png)
+
+### Profil
+![Profil](assets/screenshots/profil.png)
+
+### unggah photo
+![Unggah Photo](assets/screenshots/unggahphoto.png)
+
+### user form
+![User form](assets/screenshots/userform.png)
+
+### ganti pasword
+![Ganti pasword](assets/screenshots/gantipasword.png)
